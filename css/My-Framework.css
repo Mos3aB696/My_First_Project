@@ -1,0 +1,30 @@
+.center-position {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.circle-200 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.font-20 {
+  font-size: 20px;
+  font-weight: bold;
+}
+htjj
+.medium_50::before {
+  content: " ";
+  position: absolute;
+  width: 20px;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+}
